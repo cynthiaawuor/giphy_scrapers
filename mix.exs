@@ -16,9 +16,6 @@ defmodule GiphyScrapers.MixProject do
     [
       extra_applications: [:logger]
     ]
-    [
-     applications: [:httpoison]
-    ]
   end
 
   # Run "mix help deps" to learn about dependencies.
